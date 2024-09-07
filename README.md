@@ -17,7 +17,7 @@ Aqui estão alguns **projetos** em que estou trabalhando como parte do meu apren
 1. **[Projeto Heiwa](https://heiwa-website.vercel.app/)**:
 Trabalho na parte de ***Curadoria, limpeza e extração de dados*** do **Projeto Heiwa**. O projeto pretende gerar soluções computacionais que facilitem o entendimento do debate e discussões em redes sociais, estimulando o pensamento crítico de seus usuários. A solução pretendida é uma plataforma composta por um conjunto de ferramentas computacionais capazes de apoiar um processo de curadoria, mineração e visualização do debate em redes sociais para usuários de redes sociais, com base em técnicas modernas de Mineração de Argumentos.
 
-2. **[Oficina de Anotação de Dados de Redes Sociais](https://heiwa-website.vercel.app/)**:
+2. **[Oficina de Anotação de Dados de Redes Sociais](https://ciberdem.mack.com.br/index.php/2024/04/05/ciberdem-no-workshop-de-tendencias-tecnologicas-mackenzie/)**:
    Participei do processo de anotação de um dataset, organizando um workshop de anotação de dados no evento ***WTT (Workshop de Tendências Tecnológicas)*** da Universidade Presbiteriana Mackenzie, em colaboração com outros pesquisadores do **Projeto Heiwa**.
 
 3. **[Artigo](https://sol.sbc.org.br/index.php/brasnam/article/view/29343/29148)**:
