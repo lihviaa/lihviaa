@@ -59,8 +59,6 @@ Contribuí para o desenvolvimento do artigo *"Tweet_Eleições_2022: Um dataset 
 
 
 ### GitHub Stats
-<div>
-  <a href="https://github.com/lihviaa">
-  <a> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=compact&theme=dark#gh-dark-mode-only"/></a>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&theme=tokyonight)](https://github.com/lihviaa/github-readme-stats)
 
