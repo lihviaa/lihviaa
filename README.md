@@ -6,7 +6,7 @@
 <br><br>
 
 <p align="center"> Sou <em><strong>Livia Alabarse</strong></em>, uma estudante de ciências da computação apaixonada por tecnologia e inovação. </p>
-<p align="right"> Atualmente, estou focada em expandir meus conhecimentos nas áreas de <em>banco de dados</em> e <em>engenharia de dados</em>!! </p>
+<p align="center"> Atualmente, estou focada em expandir meus conhecimentos nas áreas de <em>banco de dados</em> e <em>engenharia de dados</em>!! </p>
  
 
 <br><br>
