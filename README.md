@@ -9,7 +9,7 @@
 <p align="center"> Atualmente, estou focada em expandir meus conhecimentos nas áreas de <em>banco e engenharia de dados</em>!! </p>
  
 
-<br><br>
+<br><br><br><br>
 
 ### Projetos e Experiências
 Aqui estão alguns **projetos** em que estou trabalhando como parte do meu aprendizado:
