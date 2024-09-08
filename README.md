@@ -9,8 +9,8 @@
  
 ### Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:liviaalabarse@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/livia-alabarse/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=7E57C2&color:FFF)](mailto:liviaalabarse@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=7E57C2&color:FFF)](https://www.linkedin.com/in/livia-alabarse/)
 
 
 ### Skills
@@ -43,7 +43,7 @@
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)](https://github.com/lihviaa/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&bg_color=000&title_color=B39DDB&text_color=FFF&border_radius=3&border_color=B39DDB&icon_color=FF00F6&theme=jolly)](https://github.com/lihviaa/github-readme-stats) 
 <img align="right" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282023683799384205/gifmaker_me_2.gif?ex=66ddd919&is=66dc8799&hm=55e75b7102e6e958815091b25c943e9a61102b140443e0043d516d63d598e41a" width="200" height="200" />
 
 
