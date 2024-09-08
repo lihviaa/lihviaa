@@ -1,33 +1,16 @@
-## Bem-vindo ao meu perfil do GitHub! 👋
-
-
-<img align="left" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282023683799384205/gifmaker_me_2.gif?ex=66ddd919&is=66dc8799&hm=55e75b7102e6e958815091b25c943e9a61102b140443e0043d516d63d598e41a" width="200" height="200" />
-
+# ✨Livia Alabarse✨ 
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="420" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 <br><br>
 
-<p align="center"> Sou <em><strong>Livia Alabarse</strong></em>, uma estudante de ciências da computação apaixonada por tecnologia e inovação. </p>
-<p align="center"> Atualmente, estou focada em expandir meus conhecimentos nas áreas de <em>banco e engenharia de dados</em>!! </p>
+
+
+<p align="left"> Estudante de ciências da computação apaixonada por tecnologia e inovação. </p>
+<p align="left"> Atualmente, estou focada em expandir meus conhecimentos nas áreas de <em>banco e engenharia de dados</em>!! </p>
  
-
-<br><br><br><br>
-
-### Projetos e Experiências
-Aqui estão alguns **projetos** em que estou trabalhando como parte do meu aprendizado:
-
-1. **[Projeto Heiwa](https://heiwa-website.vercel.app/)**:
-Trabalho na parte de ***Curadoria, limpeza e extração de dados*** do **Projeto Heiwa**. O projeto pretende gerar soluções computacionais que facilitem o entendimento do debate e discussões em redes sociais, estimulando o pensamento crítico de seus usuários. A solução pretendida é uma plataforma composta por um conjunto de ferramentas computacionais capazes de apoiar um processo de curadoria, mineração e visualização do debate em redes sociais para usuários de redes sociais, com base em técnicas modernas de Mineração de Argumentos.
-
-2. **[Oficina de Anotação de Dados de Redes Sociais](https://ciberdem.mack.com.br/index.php/2024/04/05/ciberdem-no-workshop-de-tendencias-tecnologicas-mackenzie/)**:
-   Participei do processo de anotação de um dataset, organizando um workshop de anotação de dados no evento ***WTT (Workshop de Tendências Tecnológicas)*** da Universidade Presbiteriana Mackenzie, em colaboração com outros pesquisadores do **Projeto Heiwa**.
-
-3. **[Artigo](https://sol.sbc.org.br/index.php/brasnam/article/view/29343/29148)**:
-Contribuí para o desenvolvimento do artigo *"Tweet_Eleições_2022: Um dataset de tweets durante as eleições presidenciais brasileiras de 2022"* e apresentei o mesmo no evento BraSNAM 2024 no Congresso da Sociedade Brasileira de Computação (CSBC). 
-
-
 ### Socials
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liviaalabarse@gmail.com)
-[![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-alabarse/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:liviaalabarse@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/livia-alabarse/)
 
 
 ### Skills
@@ -60,5 +43,7 @@ Contribuí para o desenvolvimento do artigo *"Tweet_Eleições_2022: Um dataset 
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&theme=tokyonight)](https://github.com/lihviaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)](https://github.com/lihviaa/github-readme-stats) 
+<img align="right" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282023683799384205/gifmaker_me_2.gif?ex=66ddd919&is=66dc8799&hm=55e75b7102e6e958815091b25c943e9a61102b140443e0043d516d63d598e41a" width="200" height="200" />
+
 
