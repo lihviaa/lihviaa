@@ -43,7 +43,7 @@
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&title_color=B39DDB&text_color=FFF&border_radius=3&border_color=B39DDB&icon_color=FF00F6&theme=jolly&bg_color=000)](https://github.com/lihviaa/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lihviaa&layout=donut&title_color=B39DDB&text_color=FFF&border_radius=3&border_color=B39DDB&theme=jolly&bg_color=000&icon_color=FF00F6&)](https://github.com/lihviaa/github-readme-stats) 
 <img align="right" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282023683799384205/gifmaker_me_2.gif?ex=66ddd919&is=66dc8799&hm=55e75b7102e6e958815091b25c943e9a61102b140443e0043d516d63d598e41a" width="200" height="200" />
 
 
