@@ -1,5 +1,5 @@
 # ✨Livia Alabarse✨ 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="420" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282434956529897532/Hand_coding-bro_1.png?ex=66df5820&is=66de06a0&hm=77836eda6b25dd90ba836d41cc1e862d645c1da81991ad327c36a05c9aaf8572&">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="420" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282434956529897532/Hand_coding-bro_1.png?ex=670593a0&is=67044220&hm=d93fd5284f4573d7f6a45f809b8b39ecc10e2908ae9d917480bdfdf470d69830&">
 <br><br>
 
 
