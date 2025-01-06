@@ -1,10 +1,10 @@
 # ✨Livia Alabarse✨ 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="420" src="https://cdn.discordapp.com/attachments/1282017271740498007/1282434956529897532/Hand_coding-bro_1.png?ex=6721ebe0&is=67209a60&hm=77c7ea53fc1ad21730bddf29a99c3e07c32b7c45fb1d05e4f37be95d514c23d7&">
-<br><br>
 
+<p align="center">
+  <img width="1800" height="500" src= "https://github.com/lihviaa/lihviaa/blob/main/imaginarium.gif">
+</p>
 
-
-<p align="left"> Estudante de ciências da computação apaixonada por tecnologia e inovação. </p>
+<p align="center"> Estudante de ciências da computação apaixonada por tecnologia e inovação. </p>
  
 ### Socials
 
